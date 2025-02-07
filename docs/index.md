@@ -10,7 +10,7 @@ nav_order: 1
 
 Welcome to this collection of onboarding materials for establishing a Federated EGA Node!
 
-## What am I doing here?
+## My name is Bond
 
 If you are reading this, you are probably looking for information on how to join the Federated EGA. Great! There is a lot of information here for you.
 
