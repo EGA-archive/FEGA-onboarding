@@ -65,13 +65,14 @@ Coming soon!
 
 ### Node Operations Guidelines
 
-The <a href="https://ega-archive.org/assets/files/EGA-Node-Operations-v2.pdf" target="_blank"> FEGA Node Operations Guidelines </a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA node. The document is based on more than 10 years experience of establishing and operating the EMBL-EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
+The <a href="https://ega-archive.org/assets/files/Federated-EGA-Node-Operations-v2.1.pdf" target="_blank"> FEGA Node Operations Guidelines </a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA node. The document is based on more than 10 years experience of establishing and operating the EMBL-EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
 
 ## 3. Complete steps to join Federated EGA
 
 The pathway to becoming a Federated EGA node includes governance/legal steps (red, top-right path) that must be completed:
 
-<img src="../../assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+<img src="../../assets/img/Path-to-becoming-FEGA-member-v2.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+&nbsp;
 
 * **Contact FEGA with intent to join**. This step can be accomplished by engaging in the ELIXIR FHD Community ("[How do I start?](../../#how-do-i-start)") or by contacting Mallory Freeberg or Amy Curwin.
 * **Present use cases to ELIXIR FHD Community; Complete FEGA Use Case Survey**. Nodes are encouraged to present at an ELIXIR FHD Community Call on topics related to: 1) national use cases for managing sensitive human omics, phenotype, and clinical data; 2) current challenges for managing sensitive human data; 3) solutions/initiatives planned or in progress to meet these challenges; and 4) how Federated EGA fits in to the node's overall goals. Some examples of previous presentations from nodes:
