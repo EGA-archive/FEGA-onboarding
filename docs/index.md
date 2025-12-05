@@ -31,7 +31,7 @@ Our values are:
 
 Summary of responsibilities of the Central EGA (EMBL-EBI & CRG) and Federated EGA Nodes (national/local jurisdictions):
 
-| Central EGA Node | Federated EGA Node |
+| Central EGA | Federated EGA Node |
 | ---------------- | ------------------ |
 | Hosts data | Hosts and/or owns data |
 | Shares metadata and provides global discovery | Shares metadata to enable global discovery |
