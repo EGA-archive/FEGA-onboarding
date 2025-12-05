@@ -18,13 +18,18 @@ These materials provide guidance for establishing a node within the Federated EG
 
 ## What is Federated EGA (FEGA)?
 
-**The Federated EGA is an ecosystem or network of Federated EGA Nodes. FEGA Nodes constitute the primary global resource for discovery and access of sensitive human omics and associated data, consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.**
+**Federated EGA is a global network of repositories enabling secure discovery and access to sensitive human data. Our vision is to accelerate scientific discovery and healthcare breakthroughs by creating the go-to worldwide sensitive human data resource.**
 
-Over the last 10 years, most individual-level human omics data have been generated in the context of research consortia and shared via global repositories such as the European Genome-phenome Archive (EGA). Many countries now have emerging personalized medicine programmes which are generating data from national or regional initiatives. Thus, human genomics is undergoing a step change from being a research-driven activity to one funded through healthcare initiatives.
+Our values are: 
 
-Genetic data generated in a healthcare context is subject to more stringent information governance than research data and often must comply with national legislation. To address this need, the Federated EGA provides a network of connected resources to enable transnational discovery of and access to human data for research while also respecting jurisdictional data protection regulations. By providing a solution to emerging challenges around secure and efficient management of human omics and associated data, the Federated EGA fosters data reuse, enables reproducibility, and accelerates biomedical research.
+  **Privacy & Trust**: Ensuring privacy of data subjects, security of services and acting with integrity to build community trust.
+    
+  **FAIRness**: Driving reuse of data through standardisation of metadata and clear access policies.
+   
+  **Diversity**: Expanding our network and representing global diversity in the data we host to bring benefits worldwide.
 
-Summary of responsibilities of Central EGA nodes (EMBL-EBI & CRG) and Federated EGA nodes (national/local jurisdictions):
+
+Summary of responsibilities of the Central EGA (EMBL-EBI & CRG) and Federated EGA Nodes (national/local jurisdictions):
 
 | Central EGA Node | Federated EGA Node |
 | ---------------- | ------------------ |
