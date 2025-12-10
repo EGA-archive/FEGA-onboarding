@@ -27,16 +27,18 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 - The <a href="https://elixir-europe.org/communities/human-data" target="_blank">ELIXIR Federated Human Data (FHD) Community</a> is the main entry-point for a Node interested in joining the FEGA Network:
   - Join the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a> (select "Human Data") to hear about the latest updates and events from the FHD community. You will need to log-in into the ELIXIR intranet.
   - Attend the <a href="https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit" target="_blank">ELIXIR FHD Community Calls</a> to engage with the FEGA community.
-- Federated EGA has mailing lists for various communications: 
+- Federated EGA has mailing lists for various communications:
+  - General enquiries: fega-info@lists.ega-archive.org 
   - FEGA Strategic Committee mailing list (invitation-only): For discussing strategic planning and direction of FEGA.
   - FEGA Operations Committee mailing list (invitation-only): For reviewing operational performance and coordinating technical roadmaps.
+  - FEGA Onboarding Nodes mailing list (invitation-only): For Onboarding Nodes with test credentials in the process of setting up their technical infrastucture and connection to Central EGA. 
 
 ### External channels
 - Follow the EGA on socials:
   - <a href="https://www.linkedin.com/company/european-genome-phenome-archive-ega" target="_blank">LinkedIn</a>
   - <a href="https://bsky.app/profile/egaarchive.bsky.social" target ="_blank">Bluesky</a>
   - <a href="https://genomic.social/@EGAarchive">Mastodon</a>
-  - <a href="https://x.com/EGAarchive" target ="_blank">X (formally Twitter)</a>
+  - <a href="https://x.com/EGAarchive" target ="_blank">X (formarly Twitter)</a>
 - Mention Federated EGA by using the hashtag <a href="https://twitter.com/search?q=%23FederatedEGA&src=typed_query&f=live" target ="_blank">#FederatedEGA</a> and, when possible, mention the EGA user.
 
 ## 2. Incorporate communication materials
