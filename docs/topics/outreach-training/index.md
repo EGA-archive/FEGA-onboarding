@@ -36,7 +36,7 @@ Welcome! If you are involved in outreach, communications, or training aspects of
   - <a href="https://www.linkedin.com/company/european-genome-phenome-archive-ega" target="_blank">LinkedIn</a>
   - <a href="https://bsky.app/profile/egaarchive.bsky.social" target ="_blank">Bluesky</a>
   - <a href="https://genomic.social/@EGAarchive">Mastodon</a>
-  - <a href="https://x.com/EGAarchive" target ="_blank">X (former Twitter)</a>
+  - <a href="https://x.com/EGAarchive" target ="_blank">X (formally Twitter)</a>
 - Mention Federated EGA by using the hashtag <a href="https://twitter.com/search?q=%23FederatedEGA&src=typed_query&f=live" target ="_blank">#FederatedEGA</a> and, when possible, mention the EGA user.
 
 ## 2. Incorporate communication materials
@@ -44,7 +44,7 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 - Federated EGA logos:
   - <a href="https://drive.google.com/file/d/1CsGbcsXxFPz7eWwU-mrFV_pFcSOc35E3/view?usp=drive_link" target="_blank">FEGA logo</a> (svg format)
   - <a href="https://drive.google.com/file/d/1p_3gUnA3UYrlajAbsU3534n1M6UVi-pT/view?usp=drive_link" target="_blank">FEGA logo - black</a> (svg format)
-  - <a href="https://drive.google.com/file/d/1MFsGaiif_6UKTmbydx22-n8TLh0-yYej/view?usp=drive_link" target="_blank">FEGA logo - white</a> (svg format)<img src="../../assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="200"  align="right" />
+  - <a href="https://drive.google.com/file/d/1MFsGaiif_6UKTmbydx22-n8TLh0-yYej/view?usp=drive_link" target="_blank">FEGA logo - white</a> (svg format)<img src="../../assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="200"  align="right"/>
 <br/><br/>
 
 ## 3. Follow news and updates
