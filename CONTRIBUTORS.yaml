@@ -17,6 +17,12 @@
 ---
 # Please add yourself below in alphabetical order
 
+acabrelles:
+    name: Aldar Cabrelles Muñoz
+    email: aldar.cabrelles@crg.eu
+    orcid: 0000-0002-1131-3139
+    elixir_node: es
+
 ahornos:
     name: Albert Hornos Vidal
     email: ahornos@bsc.es
