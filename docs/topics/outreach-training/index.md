@@ -40,12 +40,12 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 - Mention Federated EGA by using the hashtag <a href="https://twitter.com/search?q=%23FederatedEGA&src=typed_query&f=live" target ="_blank">#FederatedEGA</a> and, when possible, mention the EGA user.
 
 ## 2. Incorporate communication materials
-- <a href="https://drive.google.com/file/d/1Pvk2amBT21Z52_tDE_OWfB40qgtAC7yW/view?usp=sharing" target="_blank">Federated EGA style guide</a> (access upon request)  <img src="../../assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="200"  align="right" />
-<br/><br/>
+- Federated EGA <a href="https://drive.google.com/file/d/1Pvk2amBT21Z52_tDE_OWfB40qgtAC7yW/view?usp=sharing" target="_blank">style guide</a> (access upon request)
 - Federated EGA logos:
   - <a href="https://drive.google.com/file/d/1CsGbcsXxFPz7eWwU-mrFV_pFcSOc35E3/view?usp=drive_link" target="_blank">FEGA logo</a> (svg format)
   - <a href="https://drive.google.com/file/d/1p_3gUnA3UYrlajAbsU3534n1M6UVi-pT/view?usp=drive_link" target="_blank">FEGA logo - black</a> (svg format)
-  - <a href="https://drive.google.com/file/d/1MFsGaiif_6UKTmbydx22-n8TLh0-yYej/view?usp=drive_link" target="_blank">FEGA logo - white</a> (svg format)
+  - <a href="https://drive.google.com/file/d/1MFsGaiif_6UKTmbydx22-n8TLh0-yYej/view?usp=drive_link" target="_blank">FEGA logo - white</a> (svg format)<img src="../../assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="200"  align="right" />
+<br/><br/>
 
 ## 3. Follow news and updates
 - <a href="https://www.nature.com/articles/s41588-025-02101-9" target="_blank">"The Federated European Genome–Phenome Archive as a global network for sharing human genomics data" paper published in Nature Genetics</a> (March 2025)
