@@ -27,11 +27,10 @@ Welcome! If you are involved in governance or legal aspects of establishing a Fe
 
 ### Vision
 
-**The Federated EGA is the primary global resource for discovery and access of sensitive human omics and associated data consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.**
+**Federated EGA is a global network of repositories enabling secure discovery and access to sensitive human data. Our vision is to accelerate scientific discovery and healthcare breakthroughs by creating the go-to worldwide sensitive human data resource.**
 
-Over the last 10 years, most individual-level human omics data have been generated in the context of research consortia and shared via global repositories such as the European Genome-phenome Archive (EGA). Many countries now have emerging personalized medicine programmes which are generating data from national or regional initiatives. Thus, human genomics is undergoing a step change from being a research-driven activity to one funded through healthcare initiatives.
+In the era of rapidly expanding human genomics in research and healthcare, efficient data reuse is essential to maximise benefits for society. Since 2008, the EGA has served as a resource for permanent archiving and sharing of individual-level genetic, phenotypic, and clinical data generated for biomedical research projects or in the context of research-focused healthcare systems. The increasing scale of data and the evolution of national legislations posed significant challenges to this centralised data access model. In response, the Federated EGA officially launched in 2022, and by the end of 2025 was composed of nine national nodes worldwide and growing. 
 
-Genetic data generated in a healthcare context is subject to more stringent information governance than research data and often must comply with national legislation. To address this need, the Federated EGA provides a network of connected resources to enable transnational discovery of and access to human data for research while also respecting jurisdictional data protection regulations. By providing a solution to emerging challenges around secure and efficient management of human omics and associated data, the Federated EGA fosters data reuse, enables reproducibility, and accelerates biomedical research.
 
 ### Use cases
 
@@ -39,7 +38,7 @@ Understand more about the current <a href="https://zenodo.org/record/4893063" ta
 
 ### Organisation
 
-Here is described the <a href="https://ega-archive.org/assets/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a>. Federated EGA is broadly organised into two main types of nodes: Central EGA nodes (maintained by EMBL-EBI and CRG) and Federated EGA nodes (maintained at national or regional levels). Read the document linked above to learn more about the roles and responsibilities of each type of node.
+Here is described the <a href="https://ega-archive.org/assets/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a> **(Please note a new version is in progress)**. Federated EGA is organised into three tiers: Central EGA (maintained by EMBL-EBI and CRG), Federated EGA nodes (maintained at national or regional levels) and Federated EGA Affiliates (maintained at the institute or project level). Read the document linked above to learn more about the roles and responsibilities of each type of node.
 
 Federated EGA is governed by two permanent committees:
 - The **Federated EGA Strategic Committee** <a href="https://ega-archive.org/assets/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
@@ -59,9 +58,6 @@ Inclusion in the Federated EGA is codified by signing of the <a href="https://dr
 
 As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://legacy.ega-archive.org/files/EGA_Data_Processing_Agreement_v1.3.pdf" target="_blank">EGA Data Processing Agreement</a>. Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
 
-### Data Protection and Impact Analysis (DPIA)
-
-Coming soon!
 
 ### Node Operations Guidelines
 
