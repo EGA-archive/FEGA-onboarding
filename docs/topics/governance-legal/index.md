@@ -38,7 +38,7 @@ Understand more about the current <a href="https://zenodo.org/record/4893063" ta
 
 ### Organisation
 
-Here is described the <a href="https://ega-archive.org/assets/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a> **(Please note a new version is in progress)**. Federated EGA is organised into three tiers: Central EGA (maintained by EMBL-EBI and CRG), Federated EGA nodes (maintained at national or regional levels) and Federated EGA Affiliates (maintained at the institute or project level). Read the document linked above to learn more about the roles and responsibilities of each type of node.
+Here is described the <a href="https://ega-archive.org/assets/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a> **(New version is in progress, coming January 2026)**. Federated EGA is organised into three tiers: Central EGA (maintained by EMBL-EBI and CRG), Federated EGA nodes (maintained at national or regional levels) and Federated EGA Affiliates (maintained at the institute or project level). Read the document linked above to learn more about the roles and responsibilities of each type of node.
 
 Federated EGA is governed by two permanent committees:
 - The **Federated EGA Strategic Committee** <a href="https://ega-archive.org/assets/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
