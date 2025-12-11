@@ -27,11 +27,10 @@ Welcome! If you are involved in governance or legal aspects of establishing a Fe
 
 ### Vision
 
-**The Federated EGA is the primary global resource for discovery and access of sensitive human omics and associated data consented for secondary use, through a network of national human data repositories to accelerate disease research and improve human health.**
+**Federated EGA is a global network of repositories enabling secure discovery and access to sensitive human data. Our vision is to accelerate scientific discovery and healthcare breakthroughs by creating the go-to worldwide sensitive human data resource.**
 
-Over the last 10 years, most individual-level human omics data have been generated in the context of research consortia and shared via global repositories such as the European Genome-phenome Archive (EGA). Many countries now have emerging personalized medicine programmes which are generating data from national or regional initiatives. Thus, human genomics is undergoing a step change from being a research-driven activity to one funded through healthcare initiatives.
+In the era of rapidly expanding human genomics in research and healthcare, efficient data reuse is essential to maximise benefits for society. Since 2008, the EGA has served as a resource for permanent archiving and sharing of individual-level genetic, phenotypic, and clinical data generated for biomedical research projects or in the context of research-focused healthcare systems. The increasing scale of data and the evolution of national legislations posed significant challenges to this centralised data access model. In response, the Federated EGA officially launched in 2022, and by the end of 2025 was composed of nine national nodes worldwide and growing. 
 
-Genetic data generated in a healthcare context is subject to more stringent information governance than research data and often must comply with national legislation. To address this need, the Federated EGA provides a network of connected resources to enable transnational discovery of and access to human data for research while also respecting jurisdictional data protection regulations. By providing a solution to emerging challenges around secure and efficient management of human omics and associated data, the Federated EGA fosters data reuse, enables reproducibility, and accelerates biomedical research.
 
 ### Use cases
 
@@ -39,7 +38,7 @@ Understand more about the current <a href="https://zenodo.org/record/4893063" ta
 
 ### Organisation
 
-Here is described the <a href="https://ega-archive.org/assets/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a>. Federated EGA is broadly organised into two main types of nodes: Central EGA nodes (maintained by EMBL-EBI and CRG) and Federated EGA nodes (maintained at national or regional levels). Read the document linked above to learn more about the roles and responsibilities of each type of node.
+Here is described the <a href="https://ega-archive.org/assets/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a> **(New version is in progress, coming January 2026)**. Federated EGA is organised into three tiers: Central EGA (maintained by EMBL-EBI and CRG), Federated EGA nodes (maintained at national or regional levels) and Federated EGA Affiliates (maintained at the institute or project level). Read the document linked above to learn more about the roles and responsibilities of each type of node.
 
 Federated EGA is governed by two permanent committees:
 - The **Federated EGA Strategic Committee** <a href="https://ega-archive.org/assets/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
@@ -47,7 +46,7 @@ Federated EGA is governed by two permanent committees:
 
 Additional **Federated EGA Working Groups** are established, as needed. Working groups can be initiated from either of the Committee.
 
-<img src="../../assets/img/fega-committee-and-working-groups.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="800"  align="center" />
+<img src="../../assets/img/Committees-WGroups-01.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="800"  align="center" />
 
 ## 2. Implement legal frameworks
 
@@ -59,9 +58,6 @@ Inclusion in the Federated EGA is codified by signing of the <a href="https://dr
 
 As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://legacy.ega-archive.org/files/EGA_Data_Processing_Agreement_v1.3.pdf" target="_blank">EGA Data Processing Agreement</a>. Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
 
-### Data Protection and Impact Analysis (DPIA)
-
-Coming soon!
 
 ### Node Operations Guidelines
 
@@ -74,7 +70,7 @@ The pathway to becoming a Federated EGA node includes governance/legal steps (re
 <img src="../../assets/img/Path-to-becoming-FEGA-member-v2.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
 &nbsp;
 
-* **Contact FEGA with intent to join**. This step can be accomplished by engaging in the ELIXIR FHD Community ("[How do I start?](../../#how-do-i-start)") or by contacting Mallory Freeberg or Amy Curwin.
+* **Contact FEGA with intent to join**. This step can be accomplished by reaching out directly at fega-info@lists.ega-archive.org or by engaging in the ELIXIR FHD Community ("[How do I start?](../../#how-do-i-start)").
 * **Present use cases to ELIXIR FHD Community; Complete FEGA Use Case Survey**. Nodes are encouraged to present at an ELIXIR FHD Community Call on topics related to: 1) national use cases for managing sensitive human omics, phenotype, and clinical data; 2) current challenges for managing sensitive human data; 3) solutions/initiatives planned or in progress to meet these challenges; and 4) how Federated EGA fits in to the node's overall goals. Some examples of previous presentations from nodes:
   * <a href="https://drive.google.com/file/d/1qZ4YqlKwCuerIcjSfijUGhvaVQy8iMWf/view?usp=sharing" target="_blank">Canada</a>
   * <a href="https://docs.google.com/presentation/d/1mpTQhBt69reQz3Viju3EWPSi50sdfFy6rBO__gyznK8/edit?usp=sharing" target="_blank">Germany</a>
