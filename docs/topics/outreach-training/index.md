@@ -38,7 +38,7 @@ Welcome! If you are involved in outreach, communications, or training aspects of
   - <a href="https://www.linkedin.com/company/european-genome-phenome-archive-ega" target="_blank">LinkedIn</a>
   - <a href="https://bsky.app/profile/egaarchive.bsky.social" target ="_blank">Bluesky</a>
   - <a href="https://genomic.social/@EGAarchive">Mastodon</a>
-  - <a href="https://x.com/EGAarchive" target ="_blank">X (formarly Twitter)</a>
+  - <a href="https://x.com/EGAarchive" target ="_blank">X (formerly Twitter)</a>
 - Mention Federated EGA by using the hashtag <a href="https://twitter.com/search?q=%23FederatedEGA&src=typed_query&f=live" target ="_blank">#FederatedEGA</a> and, when possible, mention the EGA user.
 
 ## 2. Incorporate communication materials
