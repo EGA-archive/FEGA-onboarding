@@ -8,7 +8,7 @@ has_toc: false
 ---
 # Data and Metadata Management
 
-Welcome! If you are involved in data or metadata standards aspects of establishing a Federated EGA node, you are in the right place. The information here covers topics related - but not limited - to best practices for data security, data access management, (meta)data standards, and data flow.
+Welcome! If you are involved in data or metadata standards aspects of establishing a Federated EGA Node, you are in the right place. The information here covers topics related - but not limited - to best practices for data security, data access management, (meta)data standards, and data flow.
 
 **You might find this page useful if you are:**
 - a bioinformatician
@@ -26,11 +26,11 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 
 Central EGA has a <a href="https://ega-archive.org/assets/files/European_Genome_phenome_Archive_Security_Overview.pdf" target="_blank">Security Strategy</a> which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined the <a href="https://www.ga4gh.org/product/data-security-infrastructure-policy/" target="_blank">GA4GH Data Security Infrastructure Policy</a>, which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the <a href="https://www.ga4gh.org/document/privacy-and-security-policy/" target="_blank">GA4GH Privacy and Security Policy</a>.
 
-Summary of best practices recommended for Federated EGA nodes:
+Summary of best practices recommended for Federated EGA Nodes:
 
 | Item | Description | Examples/Templates |
 |:---|:---|:---|
-| Breach response protocol | A protocol for addressing potential security breaches, including consideration of other FEGA nodes, Central EGA, key contacts, and institutional/organisational policies. | Coming soon! |
+| Breach response protocol | A protocol for addressing potential security breaches, including consideration of other FEGA Nodes, Central EGA, key contacts, and institutional/organisational policies. | Coming soon! |
 | Risk register | A risk management tool used to track identified risks including information such as the nature of the risk, reference and owner, and mitigation measures. | Coming soon! |
 
 <br/><br/>

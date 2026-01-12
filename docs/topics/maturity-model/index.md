@@ -8,7 +8,7 @@ has_toc: false
 ---
 # Maturity Model
 
-Welcome! If you are involved in any aspect of establishing a Federated EGA node, you are in the right place. The information here covers topics related to the Federated EGA Maturity Model.
+Welcome! If you are involved in any aspect of establishing a Federated EGA Node, you are in the right place. The information here covers topics related to the Federated EGA Maturity Model.
 
 **You might find this page useful if you are:**
 - involved in governance or legal aspects
@@ -17,13 +17,13 @@ Welcome! If you are involved in any aspect of establishing a Federated EGA node,
 - involved in data or metadata standards aspects
 
 **By exploring these materials, you will be able to:**
-- Understand the areas in which a FEGA node matures
-- Evaluate your node implementation against maturity indicators
+- Understand the areas in which a FEGA Node matures
+- Evaluate your Node implementation against maturity indicators
 - Compare requirements against other initiative Maturity Models
 
 ## 1. Learn about the FEGA Maturity Model
 
-The Federated EGA Maturity Model is a mechanism to drive engagement and disengagement of nodes being part of the Federated EGA. The Maturity Model is divided into different domains, sub-domains, and maturity indicators. The domains are:
+The Federated EGA Maturity Model is a mechanism to drive engagement and disengagement of Nodes being part of the Federated EGA. The Maturity Model is divided into different domains, sub-domains, and maturity indicators. The domains are:
 - Governance, Strategy, and Sustainability
 - Legal
 - Data and Metadata Management
@@ -35,11 +35,11 @@ Each indicator outlines stages of maturity with a 5-level maturation scale:
 
 | Level | Description | Goal |
 | --- | --- | --- |
-| 1 | No specific actions taken towards a fully operational FEGA node | Drive initial node development |
-| 2 | Being aware of the needs and initial actions taken to become a FEGA node | Drive initial node development |
-| 3 | Working to establish a minimally operational FEGA node | Reach fully operational node |
-| 4 | Becoming a fully operational FEGA node | Reach fully operational node |
-| 5 | Maintaining a fully operational FEGA node with periodic review of the status | Ensure alignment with latest specifications |
+| 1 | No specific actions taken towards a fully operational FEGA Node | Drive initial Node development |
+| 2 | Being aware of the needs and initial actions taken to become a FEGA Node | Drive initial Node development |
+| 3 | Working to establish a minimally operational FEGA Node | Reach fully operational Node |
+| 4 | Becoming a fully operational FEGA Node | Reach fully operational Node |
+| 5 | Maintaining a fully operational FEGA Node with periodic review of the status | Ensure alignment with latest specifications |
 
 <br/><br/>
 
@@ -47,13 +47,13 @@ Explore details of the indicators and levels of the FEGA Maturity Model on a ded
   
 ## 2. Evaluate against the FEGA Maturity Model
 
-Perform a self-assessment of your node against the <a href="https://docs.google.com/spreadsheets/d/1WgvwwANlRh_OPAy8RY53xfzopFMwstG08zcg3LOTyZQ/copy" target="_blank">FEGA Maturity Model</a>. Use this link to **create a copy** of the Federated EGA Maturity Model Self-Evaluation Google spreadsheet which is private to you and whoever you share it with. This tool is meant to be an evolving evaluation of your node's progress in each of the FEGA Maturity Model domains and sub-domains. Additionally, it allows you to provide feedback on the model and tool if you choose to share it.
+Perform a self-assessment of your Node against the <a href="https://docs.google.com/spreadsheets/d/1WgvwwANlRh_OPAy8RY53xfzopFMwstG08zcg3LOTyZQ/copy" target="_blank">FEGA Maturity Model</a>. Use this link to **create a copy** of the Federated EGA Maturity Model Self-Evaluation Google spreadsheet which is private to you and whoever you share it with. This tool is meant to be an evolving evaluation of your Node's progress in each of the FEGA Maturity Model domains and sub-domains. Additionally, it allows you to provide feedback on the model and tool if you choose to share it.
 
-Explore aggregated results of the <a href="https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86" target="_blank">first node self-assessments</a>.
+Explore aggregated results of the <a href="https://docs.google.com/presentation/d/1asFVR4a-luoh7jdQJcp3A2RP0-druX1LaXPk-r7FVsY/edit#slide=id.g121731fd043_2_86" target="_blank">first Node self-assessments</a>.
 
-Hear about first-hand experiences <a href="https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing" target="_blank">costing a FEGA node</a>.
+Hear about first-hand experiences <a href="https://drive.google.com/file/d/1XjPH3sI69Hqcz7fXO1B_ThWYTayien8l/view?usp=sharing" target="_blank">costing a FEGA Node</a>.
 
-Read about <a href="https://doi.org/10.7490/f1000research.1118967.1" target="_blank">resource considerations for establishing and operating a federated human data node</a>.
+Read about <a href="https://doi.org/10.7490/f1000research.1118967.1" target="_blank">resource considerations for establishing and operating a federated human data Node</a>.
 
 ## 3. Explore related maturity models
 

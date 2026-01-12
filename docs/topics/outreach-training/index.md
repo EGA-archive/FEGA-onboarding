@@ -8,7 +8,7 @@ has_toc: false
 ---
 # Outreach and Training
 
-Welcome! If you are involved in outreach, communications, or training aspects of establishing a Federated EGA node, you are in the right place.
+Welcome! If you are involved in outreach, communications, or training aspects of establishing a Federated EGA Node, you are in the right place.
 
 **You might find this page useful if you are:**
 - a data steward
@@ -19,7 +19,7 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 **By exploring these materials, you will be able to:**
 - Interact with FEGA communication channels
 - Find FEGA outreach materials
-- Share news and updates related to FEGA and its nodes
+- Share news and updates related to FEGA and its Nodes
 
 ## 1. Engage communication channels
 
