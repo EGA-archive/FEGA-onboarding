@@ -61,7 +61,7 @@ As Central EGA is a Data Processor under GDPR definitions, all data submitters a
 
 ### Node Operations Guidelines
 
-The <a href="https://ega-archive.org/assets/files/Federated-EGA-Node-Operations-v2.1.pdf" target="_blank"> FEGA Node Operations Guidelines </a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA Node. The document is based on more than 10 years experience of establishing and operating the EMBL-EBI and CRG Central EGA Nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
+The <a href="https://ega-archive.org/assets/files/Federated-EGA-Node-Operations-v2.1.pdf" target="_blank"> FEGA Node Operations Guidelines </a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA Node. The document is based on more than 10 years experience of establishing and operating Central EGA (EMBL-EBI and CRG). It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
 
 ## 3. Complete steps to join Federated EGA
 

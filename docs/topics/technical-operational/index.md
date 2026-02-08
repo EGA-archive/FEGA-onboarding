@@ -28,7 +28,7 @@ Welcome! If you are involved in technical or operational aspects of establishing
 
 ### Standards
 
-- The <a href="https://ega-archive.org/assets/files/Federated-EGA-Node-Operations-v2.1.pdf" target="_blank">FEGA Node Operations Guidelines</a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA Node. The document is based on more than 10 years experience of establishing and operating the EMBL-EBI and CRG Central EGA Nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
+- The <a href="https://ega-archive.org/assets/files/Federated-EGA-Node-Operations-v2.1.pdf" target="_blank">FEGA Node Operations Guidelines</a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA Node. The document is based on more than 10 years experience of establishing and operating Central EGA (EMBL-EBI and CRG). It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
 - Federated EGA was established on the principle of implementing global, community standards, including those developed as part of <a href="https://www.ga4gh.org/" target="_blank">GA4GH</a> and <a href="https://elixir-europe.org/" target="_blank">ELIXIR</a>.
 - <a href="https://www.youtube.com/watch?v=k9R8W3V3ugU" target="_blank">Overview of local EGA services and architecture</a> (19 June 2020)
 
@@ -44,9 +44,9 @@ It is useful to establish SOPs for common Node operational tasks to enable consi
 
 Standard interactions between Central EGA and Federated EGA Node Helpdesk staff have been developed into a set of SOPs. Follow these SOPs below.
 
-#### Shared FEGA &harr; CEGA SOPs
+#### Shared CEGA &harr; FEGA SOPs
 
-The following SOPs must be followed as part of current FEGA &harr; CEGA Node interactions during the submission process:
+The following SOPs must be followed as part of current CEGA &harr; FEGA Node interactions during the submission process:
 
 - <a href="https://docs.google.com/document/d/1c5YfLqGjCmRlG0NF9lsuU6IWUrCq4u8Ug3Ye5xMrxtI/edit?usp=sharing" target="_blank">Federated EGA Request from submitter to submit to FEGA Node</a>
 - <a href="https://docs.google.com/document/d/1v7l_ODdh-yxyhWl8Y8R3IZC2hEy5x8KgjBQmFyEyGgw/edit?usp=sharing" target="_blank">Federated EGA Metadata Check and Release Protocol</a>
