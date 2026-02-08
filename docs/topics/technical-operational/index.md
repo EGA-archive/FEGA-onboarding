@@ -19,7 +19,7 @@ Welcome! If you are involved in technical or operational aspects of establishing
 
 **By exploring these materials, you will be able to:**
 - Understand guidelines and standards for establishing and operating a Node
-- Set up your Node using the local EGA software stack
+- Set up your Node using the Local EGA software stack
 - Interact with Central EGA using RabbitMQ
 - Evaluate your Node implementation using the FEGA Maturity Model
 - Plan your Node <a href="https://docs.google.com/document/d/1r5bm-8vVeN0zTpWQZdfBsMFCwy2RJlspsCdNOzCuZD8/" target="_blank">end-to-end demonstrator</a>
@@ -30,13 +30,13 @@ Welcome! If you are involved in technical or operational aspects of establishing
 
 - The <a href="https://ega-archive.org/assets/files/Federated-EGA-Node-Operations-v2.1.pdf" target="_blank">FEGA Node Operations Guidelines</a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA Node. The document is based on more than 10 years experience of establishing and operating Central EGA (EMBL-EBI and CRG). It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
 - Federated EGA was established on the principle of implementing global, community standards, including those developed as part of <a href="https://www.ga4gh.org/" target="_blank">GA4GH</a> and <a href="https://elixir-europe.org/" target="_blank">ELIXIR</a>.
-- <a href="https://www.youtube.com/watch?v=k9R8W3V3ugU" target="_blank">Overview of local EGA services and architecture</a> (19 June 2020)
+- <a href="https://www.youtube.com/watch?v=k9R8W3V3ugU" target="_blank">Overview of Local EGA services and architecture</a> (19 June 2020)
 
 ### Software
 
-A minimal Federated EGA Node can be set up on your local infrastructure using the <a href="https://github.com/EGA-archive/LocalEGA" target="_blank">localEGA software (GitHub repository)</a> and the associated <a href="https://localega.readthedocs.io/" target="_blank">Readthedocs</a> webpages. It is not required to use the local EGA software suite, but it is a great option compared to developing your own Federated EGA Node software from scratch.
+A minimal Federated EGA Node can be set up on your local infrastructure using the <a href="https://github.com/EGA-archive/LocalEGA" target="_blank">Local EGA software (GitHub repository)</a> and the associated <a href="https://localega.readthedocs.io/" target="_blank">Readthedocs</a> webpages. It is not required to use the Local EGA software suite, but it is a great option compared to developing your own Federated EGA Node software from scratch.
 
-More information about the local EGA software and its implementation can be found in this report on <a href="https://zenodo.org/record/4893191" target="_blank">implementation and documentation to create an operational EGA Node</a> (2 June 2021).
+More information about the Local EGA software and its implementation can be found in this report on <a href="https://zenodo.org/record/4893191" target="_blank">implementation and documentation to create an operational EGA Node</a> (2 June 2021).
 
 ### Standard Operating Procedures (SOPs)
 
