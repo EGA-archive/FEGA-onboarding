@@ -14,7 +14,7 @@ Welcome to this collection of onboarding materials for establishing a Federated 
 
 If you are reading this, you are probably looking for information on how to join the Federated EGA. Great! There is a lot of information here for you.
 
-These materials provide guidance for establishing a node within the Federated EGA. The materials are based on the knowledge and experiences of current nodes and their use cases. Your node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
+These materials provide guidance for establishing a Node within the Federated EGA. The materials are based on the knowledge and experiences of current Nodes and their use cases. Your Node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
 ## What is Federated EGA (FEGA)?
 
@@ -71,15 +71,15 @@ Now that you are connected to the Federated Human Data community, you can learn 
 
 ## What does the journey look like?
 
-Displayed below are the steps a node must take to become a full member of the Federated EGA Network. Based on experience, governance and legal development of a node (red, top-right path) happens in parallel with technical and operational development (yellow, bottom left path) with one requirement: to receive test CEGA credentials, nodes must first have presented their use case to the ELIXIR FHD Community.  Development converges when a node is ready to present to the Federated EGA Strategic Committee and sign the Federated EGA Legal (Collaboration) Agreement.
+Displayed below are the steps a Node must take to become a full member of the Federated EGA Network. Based on experience, governance and legal development of a Node (red, top-right path) happens in parallel with technical and operational development (yellow, bottom left path) with one requirement: to receive test CEGA credentials, Nodes must first have presented their use case to the ELIXIR FHD Community.  Development converges when a Node is ready to present to the Federated EGA Strategic Committee and sign the Federated EGA Legal (Collaboration) Agreement.
 
 <img src="./assets/img/Path-to-becoming-FEGA-member-v2.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA Node needs to complete to join the Federated EGA." width="1200"  align="right" />
 
 .
 <br/><br/>
-The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
+The materials on this website guide you through onboarding information from the experiences of other Nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own Node development.
 
-You can use the <a href="https://inab.github.io/fega-mm/" target="_blank">Federated EGA Maturity Model</a> to plan and drive your own node's development. The Maturity Model is divided into different domains, sub-domains, and maturity indicators which closely align with the topics outlined in these materials. You can [read more about how to interpret and use the FEGA Maturity Model](topics/maturity-model/).
+You can use the <a href="https://inab.github.io/fega-mm/" target="_blank">Federated EGA Maturity Model</a> to plan and drive your own Node's development. The Maturity Model is divided into different domains, sub-domains, and maturity indicators which closely align with the topics outlined in these materials. You can [read more about how to interpret and use the FEGA Maturity Model](topics/maturity-model/).
 
 There is no time limit on establishing a Federated EGA Node. Onboarding will take more or less time depending on existing infrastructure and governance models, availability of funding and resources, user needs, and other factors.
 
