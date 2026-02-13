@@ -38,7 +38,7 @@ Understand more about the current <a href="https://zenodo.org/record/4893063" ta
 
 ### Organisation
 
-Here is described the <a href="https://ega-archive.org/assets/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a> **(New version is in progress, coming January 2026)**. Federated EGA is organised into three tiers: Central EGA (maintained by EMBL-EBI and CRG), Federated EGA Nodes (maintained at national or regional levels) and Federated EGA Affiliates (maintained at the institute or project level). Read the document linked above to learn more about the roles and responsibilities of each type of Node.
+Here is described the <a href="https://ega-archive.org/assets/files/FEGA-Structure-v2.0.pdf" target="_blank">Federated EGA Structure and Organisation</a>. Federated EGA is organised into three tiers: Central EGA (maintained by EMBL-EBI and CRG), Federated EGA Nodes (maintained at national or regional levels) and Federated EGA Affiliates (maintained at the institute or project level). Read the document linked above to learn more about the roles and responsibilities of each type of Node.
 
 Federated EGA is governed by two permanent committees:
 - The **Federated EGA Strategic Committee** <a href="https://ega-archive.org/assets/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
@@ -56,7 +56,7 @@ Inclusion in the Federated EGA is codified by signing of the <a href="https://dr
 
 ### Data Processing Agreement (DPA)
 
-As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://legacy.ega-archive.org/files/EGA_Data_Processing_Agreement_v1.3.pdf" target="_blank">EGA Data Processing Agreement</a>. Federated EGA Nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
+As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://ega-archive.org/assets/files/EGA_Data_Processing_Agreement_for_information.pdf">EGA Data Processing Agreement</a>. Federated EGA Nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
 
 
 ### Node Operations Guidelines
