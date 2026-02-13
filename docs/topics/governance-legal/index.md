@@ -56,7 +56,7 @@ Inclusion in the Federated EGA is codified by signing of the <a href="https://dr
 
 ### Data Processing Agreement (DPA)
 
-As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://legacy.ega-archive.org/files/EGA_Data_Processing_Agreement_v1.3.pdf" target="_blank">EGA Data Processing Agreement</a>. Federated EGA Nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
+As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://ega-archive.org/assets/files/EGA_Data_Processing_Agreement_for_information.pdf">EGA Data Processing Agreement</a>. Federated EGA Nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
 
 
 ### Node Operations Guidelines
