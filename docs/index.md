@@ -57,7 +57,7 @@ Summary of responsibilities of the Central EGA (EMBL-EBI & CRG) and Federated EG
 The <a href="https://elixir-europe.org/communities/human-data" target="_blank">ELIXIR Federated Human Data (FHD) Community</a> provides a framework for the secure submission, archival, dissemination, and analysis of sensitive human data across Europe, and wider. All Federated EGA communications are currently sent through the ELIXIR FHD open channels. Welcome to join us!
 
 1. **Join the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a>** (select "Human Data") to hear about the latest updates and events from the FHD community. You will need to log-in into the ELIXIR intranet.
-1. **Attend the <a href="https://docs.google.com/document/d/1aIxXsgz69F7yAqKm7gci7-CS-wdu9iDlzzkWRJoKJXc/edit?tab=t.0#heading=h.o82myudt9q55" target="_blank">ELIXIR FHD Community Calls</a>** to engage with the FEGA community. Meetings are the 1st Tuesday of the month @ 2pm CET/CEST.
+1. **Attend the <a href="https://docs.google.com/document/d/1cNi2Dco97rGG31WIueUNjj8YBpOWYVkE2s_QPRXqy-0/edit?tab=t.0">ELIXIR FHD Community Calls</a>** to engage with the FEGA community. Meetings are the 1st Tuesday of the month @ 2pm CET/CEST.
 
 Now that you are connected to the Federated Human Data community, you can learn more about Federated EGA specifically. **Read about the areas that interest you the most** (in no particular order):
 
